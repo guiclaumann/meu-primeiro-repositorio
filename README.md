@@ -2,4 +2,4 @@
  Primeiro Repositório do curso de Git e GitHub
 
 Repositório sendo criado
-auterado no no GitHub
+auterado no GitHub
